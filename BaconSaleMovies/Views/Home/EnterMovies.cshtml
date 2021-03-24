@@ -1,0 +1,67 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    
+}
+
+@*this is the page for entering movies*@
+
+@model BaconSaleMovies.Models.ReccomendationResponse
+
+<form asp-action="EnterMovies" method="post">
+    <div asp-validation-summary="All"></div>
+    <div class="form-group col-md-3">
+        <label asp-for="Category">Which Category is this movie in?</label>
+        <input class="form-control" asp-for="Category" />
+    </div>
+
+    <div class="form-group col-md-3">
+        <label asp-for="Title">What is the movies title?</label>
+        <input class="form-control" asp-for="Title" />
+    </div>
+
+    <div class="form-group col-md-3">
+        <label asp-for="Year">When was this movie released?</label>
+        <input class="form-control" asp-for="Year" />
+    </div>
+
+    <div class="form-group col-md-3">
+        <label asp-for="Director">Who was the director?</label>
+        <input class="form-control" asp-for="Director" />
+    </div>
+
+    <div class="form-group col-md-3">
+        <label asp-for="Rating">What is the movie rated?</label>
+        <select class="form-control" asp-for="Rating">
+            <option value="">Select One</option>
+            <option value="G">G</option>
+            <option value="PG">PG</option>
+            <option value="PG_13">PG_13</option>
+            <option value="R">R</option>
+        </select>
+    </div>
+
+    @*<div>
+        <label asp-for="Edited">Was this edited?</label>
+        <select asp-for="Edited">
+            <option value="">Select One</option>
+            <option value="true">Yes</option>
+            <option value="false">No</option>
+        </select>
+    </div>*@
+
+    <input asp-for="Edited" type="hidden" value="false" />
+
+    <div class="form-group col-md-3">
+        <label asp-for="LentTo">If lent to anyone, who?</label>
+        <input class="form-control" asp-for="LentTo" />
+    </div>
+
+    <div class="form-group col-md-3">
+        <label asp-for="Notes">Any additional Notes?</label>
+        <input class="form-control" asp-for="Notes" />
+    </div>
+
+    <button class="btn btn-primary" type="submit">Submit Movie!</button>
+</form>

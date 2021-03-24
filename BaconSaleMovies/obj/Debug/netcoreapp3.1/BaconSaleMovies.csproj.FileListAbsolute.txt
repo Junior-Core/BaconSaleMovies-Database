@@ -1,0 +1,121 @@
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.deps.json
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.runtimeconfig.json
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.runtimeconfig.dev.json
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.dll
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.pdb
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.Views.dll
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.Views.pdb
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.csprojAssemblyReference.cache
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.AssemblyInfoInputs.cache
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.AssemblyInfo.cs
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.csproj.CoreCompileInputs.cache
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.MvcApplicationPartsAssemblyInfo.cache
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.RazorAssemblyInfo.cache
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.RazorAssemblyInfo.cs
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/staticwebassets/BaconSaleMovies.StaticWebAssets.Manifest.cache
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/staticwebassets/BaconSaleMovies.StaticWebAssets.xml
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/scopedcss/bundle/BaconSaleMovies.styles.css
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.TagHelpers.input.cache
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.TagHelpers.output.cache
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.RazorCoreGenerate.cache
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.RazorTargetAssemblyInfo.cache
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.RazorTargetAssemblyInfo.cs
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.Views.pdb
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.dll
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.pdb
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.genruntimeconfig.cache
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.csproj.CopyComplete
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Home/MyPodcasts.cshtml.g.cs
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Home/EnterMovies.cshtml.g.cs
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmation.cshtml.g.cs
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Home/MovieList.cshtml.g.cs
+/Users/andrewmaisey/Projects/BaconSaleMovies/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Home/NotThat.cshtml.g.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.deps.json
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.runtimeconfig.json
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.runtimeconfig.dev.json
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.pdb
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.Views.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/BaconSaleMovies.Views.pdb
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.csprojAssemblyReference.cache
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.AssemblyInfoInputs.cache
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.AssemblyInfo.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.csproj.CoreCompileInputs.cache
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.MvcApplicationPartsAssemblyInfo.cache
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.RazorAssemblyInfo.cache
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.RazorAssemblyInfo.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/staticwebassets/BaconSaleMovies.StaticWebAssets.Manifest.cache
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/staticwebassets/BaconSaleMovies.StaticWebAssets.xml
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/scopedcss/bundle/BaconSaleMovies.styles.css
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.TagHelpers.input.cache
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.TagHelpers.output.cache
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.RazorCoreGenerate.cache
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmation.cshtml.g.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Home/EnterMovies.cshtml.g.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Home/MovieList.cshtml.g.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Home/MyPodcasts.cshtml.g.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Home/NotThat.cshtml.g.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.RazorTargetAssemblyInfo.cache
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.RazorTargetAssemblyInfo.cs
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.Views.pdb
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.pdb
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.genruntimeconfig.cache
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/BaconSaleMovies.csproj.CopyComplete
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/andrewmaisey/Documents/-IS 413/Projects/Assignments/Bacon Sale Movies/BaconSaleMovies Database/BaconSaleMovies/obj/Debug/netcoreapp3.1/Razor/Views/Home/EditReccomendation.cshtml.g.cs

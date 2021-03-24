@@ -1,0 +1,51 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@*shows all the current recommendations in the sqlite database*@
+
+@model IEnumerable<BaconSaleMovies.Models.ReccomendationResponse>
+
+<div>
+    <h1>Current List of Movies</h1>
+
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr><th>Category</th><th>Title</th><th>Year</th><th>Director</th><th>Rating</th><th>Edited</th><th>Lent To:</th><th>Notes</th><th></th><th></th></tr>
+        </thead>
+
+        <tbody>
+            @foreach (BaconSaleMovies.Models.ReccomendationResponse x in Model)
+            {
+            <tr>
+                <td>@x.Category</td>
+                <td class="text-info h4">@x.Title</td>
+                <td>@x.Year</td>
+                <td>@x.Director</td>
+                <td>@x.Rating</td>
+                <td>@x.Edited</td>
+                <td>@x.LentTo</td>
+                <td>@x.Notes</td>
+                <td>
+                    <form asp-action="EditReccomendation" method="get">
+                        <input type="hidden" name="reccomendId" value="@x.ReccomendationId" />
+                        <button type="submit" class="btn btn-warning">
+                            Edit
+                        </button>
+                    </form>
+                </td>
+                <td>
+                    <form asp-action="MovieList" method="post">
+                        <input type="hidden" name="reccomendId" value="@x.ReccomendationId" />
+                        <button type="submit" class="btn btn-danger">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

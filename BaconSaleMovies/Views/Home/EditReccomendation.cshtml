@@ -1,0 +1,70 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@*this is the page where you edit previous reccomendations*@
+
+@model ReccomendationResponse
+
+<h2>Edit your reccomendation here</h2>
+
+<form asp-action="EditReccomendation" method="post">
+    <div asp-validation-summary="All"></div>
+    <div class="form-group col-md-3">
+        <label asp-for="Category">Which Category is this movie in?</label>
+        <input class="form-control" asp-for="Category" value="@Model.Category" />
+    </div>
+
+    <div class="form-group col-md-3">
+        <label asp-for="Title">What is the movies title?</label>
+        <input class="form-control" asp-for="Title" value="@Model.Title" />
+    </div>
+
+    <div class="form-group col-md-3">
+        <label asp-for="Year">When was this movie released?</label>
+        <input class="form-control" asp-for="Year" value="@Model.Year" />
+    </div>
+
+    <div class="form-group col-md-3">
+        <label asp-for="Director">Who was the director?</label>
+        <input class="form-control" asp-for="Director" value="@Model.Director" />
+    </div>
+
+    <div class="form-group col-md-3">
+        <label asp-for="Rating">What is the movie rated?</label>
+        <select class="form-control" asp-for="Rating">
+            <option value="">Select One</option>
+            <option value="G">G</option>
+            <option value="PG">PG</option>
+            <option value="PG_13">PG_13</option>
+            <option value="R">R</option>
+        </select>
+    </div>
+
+    @*<div>
+        <label asp-for="Edited">Was this edited?</label>
+        <select asp-for="Edited">
+            <option value="">Select One</option>
+            <option value="true">Yes</option>
+            <option value="false">No</option>
+        </select>
+    </div>*@
+
+    <input asp-for="Edited" type="hidden" value="true" />
+
+    <div class="form-group col-md-3">
+        <label asp-for="LentTo">If lent to anyone, who?</label>
+        <input class="form-control" asp-for="LentTo" value="@Model.LentTo" />
+    </div>
+
+    <div class="form-group col-md-3">
+        <label asp-for="Notes">Any additional Notes?</label>
+        <input class="form-control" asp-for="Notes" value="@Model.Notes" />
+    </div>
+
+    <input type="hidden" asp-for="ReccomendationId" value="@Model.ReccomendationId"/>
+
+    <button type="submit">Submit Movie!</button>
+</form>

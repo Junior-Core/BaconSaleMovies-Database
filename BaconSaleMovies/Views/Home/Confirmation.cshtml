@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    
+}
+
+@model BaconSaleMovies.Models.ReccomendationResponse
+
+@*this page shows if you successfully enter a movie*@
+<div>
+    <h1>Thank you for the recommending @Model.Title !</h1>
+    <br />
+    <br />
+    <br />
+    <br />
+    <h3>Click <a asp-action="MovieList">here</a> to see the movie list.</h3>
+</div>
